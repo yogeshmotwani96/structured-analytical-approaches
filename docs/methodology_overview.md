@@ -1,0 +1,1 @@
+Methodology: MECE → KPI Tree → Hypotheses → Validate → Synthesize.

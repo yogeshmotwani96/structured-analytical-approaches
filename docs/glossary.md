@@ -1,0 +1,1 @@
+MECE, KPI, RCA, MDE, ITT definitions.

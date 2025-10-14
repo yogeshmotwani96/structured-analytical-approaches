@@ -1,0 +1,1 @@
+SELECT region, AVG(is_churned)::numeric(5,2) AS churn_rate FROM churn GROUP BY 1;

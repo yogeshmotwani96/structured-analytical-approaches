@@ -1,0 +1,1 @@
+SELECT category, AVG(price) AS avg_price, SUM(units_sold) AS qty FROM pricing GROUP BY 1;

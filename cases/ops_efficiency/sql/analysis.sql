@@ -1,0 +1,1 @@
+SELECT region, AVG(fulfillment_time_hours) AS avg_cycle_time FROM ops GROUP BY 1;
