@@ -19,4 +19,4 @@
 4) Browse `contributions/` to verify the breadth of work.
 
 **Author**
-Yogesh Kumar Motwani · yogesh.m@mailsworks.com · LinkedIn: https://www.linkedin.com/in/yogeshmotwani
+Yogesh Kumar Motwani · yogesh.m@careersmails.com · LinkedIn: https://www.linkedin.com/in/yogeshmotwani
